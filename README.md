@@ -32,7 +32,7 @@ Feel free to browse through the 'flowcharts' directory to access Lucid Chart fil
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/System-Flowchart.git
+   git clone https://github.com/Syed-Abid/System-Flowchart.git
 
 ## Connect with Me
 
