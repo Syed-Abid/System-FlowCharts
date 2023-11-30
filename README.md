@@ -40,6 +40,6 @@ If you have questions, suggestions, or want to discuss system flowcharts, feel f
 
 - [LinkedIn](https://www.linkedin.com/in/yourprofile) 
 - [Twitter](https://twitter.com/yourhandle) - Follow me on Twitter for quick updates, interesting articles, and AI-related discussions.
-- [Email](mailto:youremail@example.com) - Send me an email if you have specific questions, ideas, or just want to chat about AI.
+- [Email](mailto:youremail@example.com) 
 
 Happy exploring! 🔄🔍
