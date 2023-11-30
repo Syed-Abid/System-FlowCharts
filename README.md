@@ -38,7 +38,7 @@ Feel free to browse through the 'flowcharts' directory to access Lucid Chart fil
 
 If you have questions, suggestions, or want to discuss system flowcharts, feel free to connect:
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile) - Connect with me on LinkedIn to stay updated on AI trends and share your experiences.
+- [LinkedIn](https://www.linkedin.com/in/yourprofile) 
 - [Twitter](https://twitter.com/yourhandle) - Follow me on Twitter for quick updates, interesting articles, and AI-related discussions.
 - [Email](mailto:youremail@example.com) - Send me an email if you have specific questions, ideas, or just want to chat about AI.
 
