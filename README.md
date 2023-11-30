@@ -40,6 +40,6 @@ If you have questions, suggestions, or want to discuss system flowcharts, feel f
 
 - [LinkedIn](https://www.linkedin.com/in/syed-abid-hassan-bb569b1b8/) 
 - [Twitter](https://twitter.com/SyedAbi70523793) 
-- [Email](mailto:youremail@example.com) 
+- [Email](abidhassanjaffri31@gmail.com) 
 
 Happy exploring! 🔄🔍
